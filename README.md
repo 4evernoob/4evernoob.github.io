@@ -1,0 +1,2 @@
+# mypage
+permalink: /index.html
